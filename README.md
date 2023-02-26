@@ -1,13 +1,39 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Javascript Unit Tests
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Contexto
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este projeto implementará várias funções para atender aos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estão corretas.
+
+## Técnologias usadas
+
+Front-end:
+> Desenvolvido usando: JavaScript, Jest
+
+## Instalando Dependências
+
+* clone o projeto:
+
+  ```bash
+  git clone git@github.com:Andreyrvs/09-Js-Unit-Tests.git
+  ```
+
+  > Aplicação
+
+  ```bash
+  cd 09-Js-Unit-Tests
+  npm install
+  ```
+
+## Executando Testes
+
+* Para rodar todos os testes:
+
+  ```bash
+  npm test
+  ```
+
+* Para rodar um teste individual `npm test nome-do-aquivo`:
+
+  ```bash
+  npm test circle.spec.js
+  ```
