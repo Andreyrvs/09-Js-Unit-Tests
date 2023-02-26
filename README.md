@@ -6,7 +6,7 @@ Este projeto implementará várias funções para atender aos requisitos propost
 
 ## Técnologias usadas
 
-Front-end:
+Aplicação:
 > Desenvolvido usando: JavaScript, Jest
 
 ## Instalando Dependências
